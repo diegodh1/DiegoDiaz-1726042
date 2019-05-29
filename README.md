@@ -2,20 +2,20 @@
 <HEAD>
 </HEAD>
 <BODY>
-<h2>Repositorio de Sistemas Operativos</h2>
+<h2 align="center">Repositorio de Sistemas Operativos</h2>
 <table>
 <tr>
 <th colspan="4" bgcolor="#F51E10" align="center">
-<font color="white">InformaciÛn del Estudiante</font>
+<font color="white">Informaci√≥n del Estudiante</font>
 </th ></tr>
 <tr>
 <th bgcolor="blue"><font color="white">Nombres</font></th>
 <th bgcolor="blue"><font color="white">Apellidos</font></th>
-<th bgcolor="blue"><font color="white">CÛdigo</font></th>
+<th bgcolor="blue"><font color="white">C√≥digo</font></th>
 <th bgcolor="blue"><font color="white">Correo</font></th>
 </tr>
 <td>Diego Alexander</td>
-<td>DÌaz Hern·ndez</td>
+<td>D√≠az Hern√°ndez</td>
 <td>1726042-3743</td>
 <td>diego.alexander.diaz@correounivalle.edu.co</td>
 </tr>
