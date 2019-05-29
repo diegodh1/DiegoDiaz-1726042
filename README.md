@@ -5,7 +5,7 @@
 <h2>Repositorio de Sistemas Operativos</h2>
 <table>
 <tr>
-<th colspan="4" bgcolor="#F51E10">
+<th colspan="4" bgcolor="#F51E10" align="center">
 <font color="white">Información del Estudiante</font>
 </th ></tr>
 <tr>
