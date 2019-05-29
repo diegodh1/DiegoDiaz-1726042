@@ -27,4 +27,6 @@ gcc basico.c -L. -lfun -o basico
 ```
 ./basico
 ```
+* Hipervinculo a la carpeta
+https://github.com/diegodh1/DiegoDiaz-1726042/tree/master/2019_05_24
 
