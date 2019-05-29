@@ -20,7 +20,7 @@
 <td>diego.alexander.diaz@correounivalle.edu.co</td>
 </tr>
 <br>
-<p><u>Clases de S.O</u></p>
+<p><b>CLASES DE S.0</b></p>
 <ul>
 <li><a href="https://github.com/diegodh1/DiegoDiaz-1726042/tree/master/2019_05_24">Clase 1</a></li>
 </ul>
